@@ -7,7 +7,8 @@
 
         <style>
             html, body {
-                height: 100%;
+                height: 100vh;
+                width: 100vw;
             }
 
             body {
@@ -17,6 +18,8 @@
                 display: table;
                 font-weight: 100;
                 font-family: 'Lato';
+                background-image:url(https://www.planwallpaper.com/static/images/magic-of-blue-universe-images.jpg);
+                background-size:cover;
             }
 
             .container {
@@ -28,17 +31,18 @@
             .content {
                 text-align: center;
                 display: inline-block;
+                color:#fff;
             }
 
             .title {
-                font-size: 96px;
+                font-size: 8vw;
             }
         </style>
     </head>
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Laravel 5</div>
+                <div class="title">smugrubber</div>
             </div>
         </div>
     </body>
