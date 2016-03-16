@@ -1,0 +1,3 @@
+[submodule "public/smugrubber"]
+	path = public/smugrubber
+	url = https://github.com/smugrubber/smugrubber
